@@ -1,10 +1,10 @@
-# Bitcoin Voyager
+# Bitcoin Voyager Web
 
-A bitcoin blockchain explorer web application service for [libbitcoin](https://github.com/libbitcoin/libbitcoin) using the [Bitcoin Voyager API](https://github.com/cancoin/bitcoin-voyager-api)
+A bitcoin blockchain explorer web application service for [libbitcoin](https://github.com/libbitcoin/libbitcoin) using the [Bitcoin Voyager](https://github.com/cancoin/bitcoin-voyager)
 
 ## Quick Start
 
-Please see the guide at [https://github.com/cancoin/bitcoin-voyager-api](https://github.com/cancoin/bitcoin-voyager-api) for information about getting a block explorer running. This repository is only the front-end component of the block explorer, and uses the full API to render data.
+Please see the guide at [https://github.com/cancoin/bitcoin-voyager](https://github.com/cancoin/bitcoin-voyager) for information about getting a block explorer running. This repository is only the front-end component of the block explorer, and uses the full API to render data.
 
 ## Getting Started
 
